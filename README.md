@@ -44,9 +44,10 @@ This lab was facilitated by the Google Cybersecurity Professional Certificate in
 
 | Yes | No | Best Practices | Explanation |
 | --- | --- | --- | --- |
-| | | |
-| | | |
-| | | |
+| | X | E.U. customers’ data is kept private/secured. | No encryption in place to provide confidentiality to customer credit card information. |
+| X | | There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach. | Plan in place includes notifying E.U. customers within 72 hours in case of data breach. |
+| | X | Ensure data is properly classified and inventoried. | Assets have been inventoried but not classified. |
+| X | | Enforce privacy policies, procedures, and processes to properly document and maintain data. | Privacy policies, procedures and processes have been enforced among company employees, as needed. |
 
 <strong>System and Organization Controls (SOC Type 1 and Type 2)</strong>
 
