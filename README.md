@@ -28,3 +28,30 @@ This lab was facilitated by the Google Cybersecurity Professional Certificate in
 | X | | Physical Locks | Physical locks are in place in offices, store front and warehouse. |
 | X | | CCTV Surveillance | Surveillance cameras are up to date and regularly monitored. |
 | X | | Fire Detection/Prevention | Fire detection and prevention systems in place and functional. |
+
+### Compliance Checklist
+
+<strong>Payment Card Industry Data Security Standard (PCI DSS)</strong>
+
+| Yes | No | Best Practices | Explanation |
+| --- | --- | --- | --- |
+| | X | Only authorized users have access to customers' credit card information. | All employees have full access to company's internal data. |
+| | X | Credit card information is accepted, processed, transmitted, and stored internally, in a secure environment. | Credit card information is not encrypted and can be accessed by all employees. |
+| | X | Implement data encryption procedures to better secure credit card transaction touchpoints and data. | No encryption is in place to provide confidentiality to customer credit card information. |
+| | X | Adopt secure password management policies. | No centralized password management to enforce policies. Current password policies are nominal and do not meet NIST standards. |
+
+<strong>General Data Protection Regulation (GDPR)</strong>
+
+| Yes | No | Best Practices | Explanation |
+| --- | --- | --- | --- |
+| | | |
+| | | |
+| | | |
+
+<strong>System and Organization Controls (SOC Type 1 and Type 2)</strong>
+
+| Yes | No | Best Practices | Explanation |
+| --- | --- | --- | --- |
+| | | |
+| | | |
+| | | |
