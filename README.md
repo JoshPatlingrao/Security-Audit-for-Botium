@@ -53,6 +53,7 @@ This lab was facilitated by the Google Cybersecurity Professional Certificate in
 
 | Yes | No | Best Practices | Explanation |
 | --- | --- | --- | --- |
-| | | |
-| | | |
-| | | |
+| | X | User access policies are established. | Access controls for least privileged and separation of duties are not implemented. All employees have access to company's internal data. |
+| | X | Sensitive data (PII/SPII) is confidential/private. | No encryption applied to customer financial data. |
+| X | | Data integrity ensures the data is consistent, complete, accurate, and has been validated. | Data integrity in place. |
+| | X | Data is available to individuals authorized to access it. | Data is available to authorized individuals but it's not restricted to them. |
