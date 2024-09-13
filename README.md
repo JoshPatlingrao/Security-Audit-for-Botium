@@ -5,8 +5,13 @@
 This lab was facilitated by the Google Cybersecurity Professional Certificate in Coursera. The student was given a scenario where they must conduct a security audit on a fictional company. The main task involved reviewing the IT Manager's scope, goals and risk assessment report, then create a controls and compliance checklist as part of the internal audit.
 
 ### Skills Learned
+- Analyzing implementation of various security controls.
+- Analyzing company compliance to standards and regulations.
 
 ### Tools Used
+- PCI DSS
+- GDPR
+- SOC Type 1 and Type 2
 
 ## Assessment
 
