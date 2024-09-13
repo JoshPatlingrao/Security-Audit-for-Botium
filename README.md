@@ -57,3 +57,13 @@ This lab was facilitated by the Google Cybersecurity Professional Certificate in
 | | X | Sensitive data (PII/SPII) is confidential/private. | No encryption applied to customer financial data. |
 | X | | Data integrity ensures the data is consistent, complete, accurate, and has been validated. | Data integrity in place. |
 | | X | Data is available to individuals authorized to access it. | Data is available to authorized individuals but it's not restricted to them. |
+
+<strong>Recommendations</strong>
+
+Botium is currently lacking crucial controls that weakens its security posture. This will increase the risk of a succesful data breach on the company and result in the exposure of sensitive customer data to threat actors and losing the company valuable time and money. The company will need to address the critical issues:
+- Implement access controls such as least privilege and separation of duties to minmise the risk of unqualified personnel handling the data and increase the risk of a data breach.
+- Apply encryption to PII, SPII and customer financial information to provide confidentiality.
+- Install a centralized password management system to streamline password policy enfrocement and ensure that these policies align with current standards.
+- Regularly maintain and monitor legacy systems and develop a more concise plan of intervention in case of a breach.
+
+Additionally, Botium also needs to properly classify its assets to identify additional controls that may needs to be implemented to improve their security posture and better protect sensitive informaton.
