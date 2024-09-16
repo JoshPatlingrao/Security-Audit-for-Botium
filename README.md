@@ -7,6 +7,7 @@ This project was facilitated by the Google Cybersecurity Professional Certificat
 ### Skills Learned
 - Analyzing implementation of various security controls.
 - Analyzing company compliance to standards and regulations.
+- Providing recopmmendations to strengthen security posture based on findings.
 
 ### Tools Used
 - PCI DSS
